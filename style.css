@@ -2,8 +2,14 @@
     color: greenyellow;
 }
 
-img {
+#odin {
     width: 358px;
     height: 302px;
+    display: none;
+}
+
+#misty {
+    width: 604px;
+    height: 806px;
     display: none;
 }
