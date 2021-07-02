@@ -1,0 +1,36 @@
+[33mcommit 2e4a786e9c609683d535b7f2d65e6e0e3722a2de[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Chris <cmsl4y3r@gmail.com>
+Date:   Wed Jun 30 18:58:42 2021 -0600
+
+    project complete but ugly
+
+[33mcommit 1e0a0e8feed915770b509f30cf26c8969aac4adc[m
+Merge: 0101172 7485075
+Author: Chris <cmsl4y3r@gmail.com>
+Date:   Wed Jun 30 18:57:20 2021 -0600
+
+    Not sure what happened trying to fix it. Merge branch 'master' of https://github.com/Mortr0n/jQueryFunctions
+
+[33mcommit 010117214124bfa139fd782baffc1b98d6572fab[m
+Author: Chris <cmsl4y3r@gmail.com>
+Date:   Wed Jun 30 18:54:30 2021 -0600
+
+    Project Ugly but mostly complete
+
+[33mcommit 74850758bc5019ef49ca1acc6ed4674069a51e6d[m
+Author: Chris <36178986+Mortr0n@users.noreply.github.com>
+Date:   Tue Jun 29 19:33:36 2021 -0600
+
+    Create README.md
+
+[33mcommit 294533cb7520fb5bda346a63577991923481efe3[m
+Author: Chris <cmsl4y3r@gmail.com>
+Date:   Tue Jun 29 19:32:20 2021 -0600
+
+    several more added.  including funny stuff
+
+[33mcommit cbd769dc02dacf61bf3a622e74cc3c2d08961f7c[m
+Author: Chris <cmsl4y3r@gmail.com>
+Date:   Tue Jun 29 19:08:59 2021 -0600
+
+    initial commit-got the initial code working for the 1st 3, but need fleshed out and more done!
